@@ -2,7 +2,7 @@
 
 Aici voi atasa codurile invatate la Cursul Java
 
-
+Beatrice  vrea un conflict nou
 Beatrice a facut o modificare
 
 A mai facut o modificare
